@@ -1,6 +1,25 @@
 language: R
-cache: packages
+sudo: false
+cache:
+  packages: true
+  directories:
+  - $HOME/.npm
 pandoc_version: 2.3.1
+
+before_install:
+  - nvm install stable
+  - npm install netlify-cli -g
+
+env:
+  - NETLIFY_SITE_ID=216f9e98-82ae-4699-87b6-5635a7f7f943
+  # NETLIFY_AUTH_TOKEN set in travis settings
 
 script:
 - Rscript -e 'bookdown::render_book("index.Rmd")'
+
+deploy:
+  - provider: script
+    script: netlify deploy --dir _book --prod
+    skip_cleanup: true
+    on:
+      branch: master
