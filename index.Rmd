@@ -11,6 +11,13 @@ link-citations: yes
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
+# Deployed links {-}
+
+This book is built with Travis CI, then deployed on Netlify:
+
+1. https://bookdown-travis-production-context.netlify.com/
+1. Repo: https://github.com/apreshill/bookdown-travis-production-context
+
 # Prerequisites
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
