@@ -18,6 +18,8 @@ This book is built with Travis CI, then deployed on Netlify:
 1. https://bookdown-travis-production-context.netlify.com/
 1. Repo: https://github.com/apreshill/bookdown-travis-production-context
 
+Now with meaningful commit messages in my Netlify deploy logs!
+
 # Prerequisites
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
