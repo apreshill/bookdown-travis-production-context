@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-production-context.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-production-context)
+[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-production-context.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-production-context) [![Netlify Status](https://api.netlify.com/api/v1/badges/216f9e98-82ae-4699-87b6-5635a7f7f943/deploy-status)](https://app.netlify.com/sites/bookdown-travis-production-context/deploys)
 
 To follow along:
 
