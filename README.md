@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-production-context.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-production-context) [![Netlify Status](https://api.netlify.com/api/v1/badges/216f9e98-82ae-4699-87b6-5635a7f7f943/deploy-status)](https://app.netlify.com/sites/bookdown-travis-production-context/deploys)
+[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-production-context.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-production-context) [![Netlify Status](https://api.netlify.com/api/v1/badges/216f9e98-82ae-4699-87b6-5635a7f7f943/deploy-status)](https://app.netlify.com/sites/bookdown-travis-production-context/deploys) [![CC BY SA 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 To follow along:
 
